@@ -4,18 +4,21 @@
 <img width="1500" height="500" alt="Group 64" src="https://github.com/user-attachments/assets/c1b0ceac-fa86-44f0-ba45-92187ed9582e" />
 </a>
 
+<br/>
+<br/>
 
-
-# Awesome Clawdbot Skills
-
-**A collection of 565+ community-built skills for Clawdbot, categorized for easy discovery.**
+<div align="center">
+    <strong>A collection of 565+ community-built skills for Clawdbot, categorized for easy discovery.
+    </strong>
+    <br />
+    <br />
+</div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Skills Count](https://img.shields.io/badge/skills-565+-blue?style=flat-square)
-
 </div>
 
-## About
+# Awesome Clawdbot Skills
 
 Clawdbot is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
 
