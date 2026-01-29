@@ -60,7 +60,8 @@ Priority: Workspace > Local > Bundled
 - [Git & GitHub](#git--github) (9)
 - [DevOps & Cloud](#devops--cloud) (35)
 - [Browser & Automation](#browser--automation) (8)
-- [Image & Video Generation](#image--video-generation) (10)
+- [CAD & 3D Printing](#cad--3d-printing) (1)
+- [Image & Video Generation](#image--video-generation) (9)
 - [Apple Apps & Services](#apple-apps--services) (11)
 - [Search & Research](#search--research) (12)
 - [Clawdbot Tools](#clawdbot-tools) (13)
@@ -186,6 +187,11 @@ Priority: Workspace > Local > Bundled
 - [guru-mcp](https://github.com/moltbot/skills/tree/main/skills/pvoo/guru-mcp/SKILL.md) - Access Guru knowledge base via MCP - ask AI questions, search documents, create drafts.
 - [mcporter](https://github.com/moltbot/skills/tree/main/skills/steipete/mcporter/SKILL.md) - Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP.
 - [verify-on-browser](https://github.com/moltbot/skills/tree/main/skills/myestery/verify-on-browser/SKILL.md) - Control browser via Chrome DevTools Protocol - full CDP access.
+
+
+## CAD & 3D Printing
+
+- [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - Rendering server for AI agents doing CAD work. Send build123d commands, receive rendered images, iterate visually. Supports 3D/2D renders, STL export, printability analysis.
 
 ## Image & Video Generation
 
