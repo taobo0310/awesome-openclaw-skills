@@ -1,6 +1,6 @@
 # Contributing to Awesome Moltbot Skills
 
-A curated list of skills for Moltbot (formerly Clawdbot). We organize links to skills hosted in the [official Moltbot skills repo](https://github.com/moltbot/skills/tree/main/skills).
+A curated list of skills for Moltbot (formerly Clawdbot). We organize links to skills hosted in the [official Moltbot skills repo]((https://github.com/openclaw/skills/tree/main/skills).
 
 ## Adding a Skill
 
@@ -9,13 +9,13 @@ A curated list of skills for Moltbot (formerly Clawdbot). We organize links to s
 Add your skill to the end of the relevant category in `README.md`:
 
 ```markdown
-- [skill-name](https://github.com/moltbot/skills/tree/main/skills/author/skill-name/SKILL.md) - Short description of what it does.
+- [skill-name]((https://github.com/openclaw/skills/tree/main/skills/author/skill-name/SKILL.md) - Short description of what it does.
 ```
 
 If an author has multiple skills in the same area, please don't add them one by one. Instead, link to the author's parent folder and write a general description. This keeps the list clean and avoids unnecessary clutter.
 
 ```markdown
-- [author-skills](https://github.com/moltbot/skills/tree/main/skills/author) - Brief summary covering all skills.
+- [author-skills]((https://github.com/openclaw/skills/tree/main/skills/author) - Brief summary covering all skills.
 ```
 
 ### Where to Add
@@ -25,7 +25,7 @@ If an author has multiple skills in the same area, please don't add them one by 
 
 ### Requirements
 
-- Skill must be published to the [Moltbot official skills repo](https://github.com/moltbot/skills/tree/main/skills)
+- Skill must be published to the [Moltbot official skills repo]((https://github.com/openclaw/skills/tree/main/skills)
 - Has documentation (SKILL.md)
 - Description must be concise — 10 words or fewer
 - Skill must have real community usage. We focus on community-adopted, proven skills published by development teams and proven in real-world usage. Brand new skills are not accepted — give your skill time to mature and gain users before submitting
